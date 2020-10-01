@@ -1,2 +1,2 @@
-# codingPart
-It contains implementation of data structures and algorithm in python.
+# Coding Part
+It contains the implementation of data structures and algorithms in python language
